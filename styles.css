@@ -1,0 +1,45 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  font-family: "Open Sans", sans-serif;
+  background: #000;
+  color: #fff;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 300;
+}
+
+article {
+  display: block;
+  width: 700px;
+  padding: 50px;
+  margin: 0 auto;
+}
+
+a {
+  color: #fff;
+  font-weight: 700;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+svg {
+  width: 75px;
+  margin-top: 1em;
+}
+
+.cls-1 {
+  fill: #fff;
+}
